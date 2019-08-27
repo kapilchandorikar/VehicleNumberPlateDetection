@@ -1,6 +1,6 @@
 # VehicleNumberPlateDetection
 
-Identify the license place in the image and do an OCR to extract the characters from the detected license plate.
+Identify the license plate in the image and do an OCR to extract the characters from the detected license plate.
 
 Framework used:   
 * Darknet written in C and CUDA
